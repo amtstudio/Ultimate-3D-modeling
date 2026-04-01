@@ -15,7 +15,10 @@ Our official website (Chinese version)
 
 The author is still in "good" mental shape, please give me some stars😋
 
-
+## Project Purpose
+This project was created to address the current situation:
+there are very few 3D modeling apps on mobile platforms, and most of the good ones are paid.
+My goal is to build a free, open-source 3D modeling tool for Android.
 
 ## License  
 This project is now licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.  
