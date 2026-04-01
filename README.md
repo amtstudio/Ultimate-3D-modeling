@@ -10,3 +10,9 @@ Our official website (Chinese version)
 [our official website](https://amtstudio.yangenqi.online "Our official website")
 
 The author is still in "good" mental shape, please give me some stars😋
+
+
+
+## License  
+This project is now licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.  
+See [LICENSE](LICENSE) for details.
