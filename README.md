@@ -7,4 +7,4 @@ If you need to contact the author, please reach out at
 [call me](mailto:luorenyishishazi@outlook.com "Contact the project author")
 
 Our official website (Chinese version)
-(amtstudio.yangenqi.online"Our official website")
+[our official website](amtstudio.yangenqi.online"Our official website")
