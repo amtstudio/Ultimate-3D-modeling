@@ -8,3 +8,5 @@ If you need to contact the author, please reach out at
 
 Our official website (Chinese version)
 [our official website](https://amtstudio.yangenqi.online "Our official website")
+
+The author is still in "good" mental shape, please give me some star😋
